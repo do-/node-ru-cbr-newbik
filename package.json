@@ -1,0 +1,24 @@
+{
+  "name": "ru-cbr-newbik",
+  "version": "1.0.0",
+  "description": "www.cbr.ru/s/newbik parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do-/node-ru-cbr-newbik.git"
+  },
+  "author": "Dmitry Ovsyanko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/do-/node-ru-cbr-newbik/issues"
+  },
+  "homepage": "https://github.com/do-/node-ru-cbr-newbik#readme",
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "unzippo": "^1.0.2",
+    "xml-toolkit": "^1.0.2"
+  }
+}
